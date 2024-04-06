@@ -1,0 +1,12 @@
+[submodule "mnn-demo"]
+	path = mnn-demo
+	url = https://github.com/KinChow/mnn-demo.git
+[submodule "openmp-demo"]
+	path = openmp-demo
+	url = https://github.com/KinChow/openmp-demo.git
+[submodule "vectorization-demo"]
+	path = vectorization-demo
+	url = https://github.com/KinChow/vectorization-demo.git
+[submodule "neon-demo"]
+	path = neon-demo
+	url = https://github.com/KinChow/neon-demo.git
